@@ -1,67 +1,64 @@
-<!-- CRYSTAL / LIQUID GLASS PROFILE · PIYUSH -->
+<!-- PROFILE README · CRYSTAL GLASS EDITION -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:05070B,35:101A27,70:26394B,100:71869A&text=PIYUSH&fontColor=F4F8FC&fontSize=76&fontAlignY=42&desc=BUILDING%20THE%20FUTURE%2C%20ONE%20COMMIT%20AT%20A%20TIME&descSize=13&descAlignY=65&animation=fadeIn" alt="Piyush — building the future one commit at a time" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:05080D,35:102137,70:244A68,100:8CB8D8&text=PIYUSH&fontColor=FFFFFF&fontSize=76&fontAlignY=42&desc=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20EVOLVE&descSize=16&descAlignY=65&animation=fadeIn" alt="Piyush — Learn, Build, Evolve" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=D5E2EF&center=true&vCenter=true&width=720&lines=Aspiring+Developer+%E2%80%A2+Curious+Builder;Learning+Kotlin+%26+Python;Creating+Morrow+AI;Exploring+Android%2C+AI+%26+UI%2FUX" alt="Animated developer introduction" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=EAF4FF&center=true&vCenter=true&width=650&lines=Aspiring+Developer;Learning+Kotlin+%26+Python;Building+Morrow+AI;Exploring+Android+%26+Artificial+Intelligence" alt="Animated developer introduction" />
 
 <br/><br/>
 
-<a href="https://github.com/prasunmukherjeeee28-ops"><img src="https://img.shields.io/badge/GITHUB-101923?style=for-the-badge&logo=github&logoColor=EAF2FA" alt="GitHub" /></a>
-<a href="https://discord.gg/djbPh6TP"><img src="https://img.shields.io/badge/DISCORD-101923?style=for-the-badge&logo=discord&logoColor=C9D8F0" alt="Discord" /></a>
-<a href="https://t.me/Hartbyleon"><img src="https://img.shields.io/badge/TELEGRAM-101923?style=for-the-badge&logo=telegram&logoColor=C9D8F0" alt="Telegram" /></a>
-<a href="https://www.instagram.com/iblame_kesh?cplk=MWtrdXdpcGhlYXNoNg=="><img src="https://img.shields.io/badge/INSTAGRAM-101923?style=for-the-badge&logo=instagram&logoColor=C9D8F0" alt="Instagram" /></a>
+<a href="https://github.com/prasunmukherjeeee28-ops"><img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+<a href="https://discord.gg/djbPh6TP"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Discord" /></a>
+<a href="https://t.me/Hartbyleon"><img src="https://img.shields.io/badge/TELEGRAM-168CCB?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram" /></a>
+<a href="https://www.instagram.com/iblame_kesh?cplk=MWtrdXdpcGhlYXNoNg=="><img src="https://img.shields.io/badge/INSTAGRAM-C13584?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=prasunmukherjeeee28-ops&style=flat-square&color=64748B&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=prasunmukherjeeee28-ops&style=for-the-badge&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-<div align="center">
+## ◈ ABOUT ME
 
-### ◇ THE DEVELOPER BEHIND THE SCREEN
+> Curious by nature. Learning by building. Improving one commit at a time.
 
-*Curiosity is the interface. Consistency is the engine.*
-
-</div>
-
-I'm **Piyush** — an aspiring developer learning by building. I'm interested in Android development, AI, thoughtful interfaces, and turning small ideas into real projects.
+I'm **Piyush**, an aspiring developer exploring programming, Android development, AI, and thoughtful UI/UX. I like understanding how things work and turning ideas into practical projects.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### ⌁ CURRENT PROFILE
+### ◇ DEVELOPER SNAPSHOT
 
-- **Focus** — Android & AI
-- **Learning** — Kotlin, Python
-- **Building** — Morrow AI
-- **Exploring** — UI/UX, open source
-- **Approach** — Learn → Build → Improve
+- **Focus:** Android development and AI
+- **Learning:** Kotlin and Python
+- **Building:** Morrow AI
+- **Exploring:** UI/UX and open source
+- **Mindset:** Learn → Build → Improve
 
 </td>
 <td width="50%" valign="top">
 
-#### ⌘ MY WORKFLOW
+### ◇ BUILD PROCESS
 
 ```text
-01 / Explore an idea
-02 / Learn the fundamentals
-03 / Build a first version
-04 / Test, refine, repeat
+01  Explore an idea
+02  Learn the fundamentals
+03  Build a first version
+04  Test and refine
+05  Repeat
 ```
 
 </td>
 </tr>
 </table>
 
-## ◇ TECH STACK — IN PROGRESS
+## ◈ TECH I’M EXPLORING
 
 <div align="center">
 
@@ -71,77 +68,90 @@ I'm **Piyush** — an aspiring developer learning by building. I'm interested in
 
 </div>
 
-## ◇ SELECTED PROJECT
+## ◈ FEATURED PROJECT — MORROW AI
 
 <div align="center">
 
 <a href="https://github.com/prasunmukherjeeee28-ops/Morrow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=prasunmukherjeeee28-ops&repo=Morrow&theme=transparent&hide_border=true&bg_color=0B1119&title_color=DCE8F4&text_color=AAB9C9&icon_color=9DB4C9" alt="Morrow AI repository card" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=prasunmukherjeeee28-ops&repo=Morrow&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=E6EDF3&icon_color=58A6FF" alt="Morrow AI repository card" />
 </a>
 
-### MORROW / AI
+**A native Android AI app project**
 
-A native Android AI app project focused on bringing a clean conversational experience to mobile.
+Kotlin · Jetpack Compose · Cloudflare Workers · AI
 
-**Kotlin** · **Jetpack Compose** · **Cloudflare Workers** · **AI**
-
-<a href="https://github.com/prasunmukherjeeee28-ops/Morrow">OPEN PROJECT ↗</a>
+<a href="https://github.com/prasunmukherjeeee28-ops/Morrow">OPEN MORROW REPOSITORY ↗</a>
 
 </div>
 
-## ◇ GITHUB ANALYTICS
+## ◈ GITHUB STATISTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prasunmukherjeeee28-ops&show_icons=true&hide_border=true&bg_color=0B1119&title_color=DCE8F4&text_color=AAB9C9&icon_color=9DB4C9&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasunmukherjeeee28-ops&layout=compact&hide_border=true&bg_color=0B1119&title_color=DCE8F4&text_color=AAB9C9" alt="Most used languages" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=prasunmukherjeeee28-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=E6EDF3&icon_color=58A6FF" alt="GitHub statistics card" />
 
 <br/>
 
-<img width="82%" src="https://streak-stats.demolab.com?user=prasunmukherjeeee28-ops&theme=transparent&hide_border=true&background=0B1119&ring=9DB4C9&fire=DCE8F4&currStreakLabel=DCE8F4&sideLabels=AAB9C9&dates=71869A" alt="GitHub contribution streak" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasunmukherjeeee28-ops&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=E6EDF3" alt="Most used programming languages" />
+
+<br/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=prasunmukherjeeee28-ops&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F0883E&currStreakLabel=79C0FF&sideLabels=E6EDF3&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D" alt="GitHub contribution streak" />
 
 </div>
 
-## ◇ CONTRIBUTION FLOW
+## ◈ CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prasunmukherjeeee28-ops&bg_color=0B1119&color=DCE8F4&line=71869A&point=EAF2FA&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-
-<br/>
-
-**THE CONTRIBUTION SNAKE**
-
-<img width="100%" src="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/github-contribution-grid-snake.svg" alt="Animated contribution snake — generated by GitHub Actions" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prasunmukherjeeee28-ops&bg_color=0D1117&color=E6EDF3&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
-## ◇ NEXT ON THE BUILD LIST
+## ◈ THE CONTRIBUTION SNAKE
 
-- Strengthen programming fundamentals
-- Get better with Kotlin and Python
-- Keep developing Morrow AI
-- Explore modern Android UI patterns
-- Ship projects, learn from the process
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/github-contribution-grid-snake.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+</picture>
+
+<sub>Light and dark versions are generated automatically by GitHub Actions.</sub>
+
+<br/>
+
+<a href="https://github.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/actions/workflows/snake.yml">VIEW SNAKE WORKFLOW ↗</a>
+
+</div>
+
+## ◈ WHAT I’M WORKING TOWARDS
+
+- Strengthening programming fundamentals
+- Learning Kotlin and Python step by step
+- Developing Morrow AI
+- Exploring modern Android UI
+- Building projects and learning through practice
 
 ---
 
 <div align="center">
 
-### FIND ME OUTSIDE THE CODE
+### ◇ CONNECT WITH ME
 
-<a href="https://discord.gg/djbPh6TP"><img src="https://img.shields.io/badge/Join%20my%20Discord-182433?style=for-the-badge&logo=discord&logoColor=DCE8F4" alt="Join my Discord" /></a>
-<a href="https://t.me/Hartbyleon"><img src="https://img.shields.io/badge/Telegram-182433?style=for-the-badge&logo=telegram&logoColor=DCE8F4" alt="Telegram" /></a>
-<a href="https://www.instagram.com/iblame_kesh?cplk=MWtrdXdpcGhlYXNoNg=="><img src="https://img.shields.io/badge/Instagram-182433?style=for-the-badge&logo=instagram&logoColor=DCE8F4" alt="Instagram" /></a>
+<a href="https://discord.gg/djbPh6TP"><img src="https://img.shields.io/badge/Discord-Join%20the%20server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join my Discord server" /></a>
+
+<a href="https://t.me/Hartbyleon"><img src="https://img.shields.io/badge/Telegram-Message%20me-168CCB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+
+<a href="https://www.instagram.com/iblame_kesh?cplk=MWtrdXdpcGhlYXNoNg=="><img src="https://img.shields.io/badge/Instagram-Follow%20me-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:71869A,55:26394B,100:05070B&height=125&section=footer" alt="" />
-
-<sub>DESIGNED IN DARKNESS · BUILT WITH CURIOSITY</sub>
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8CB8D8,50:244A68,100:05080D&height=115&section=footer" alt="" />
 
 **“Dream. Design. Develop. Repeat.”**
+
+<sub>BUILT WITH CURIOSITY · IMPROVED WITH EVERY COMMIT</sub>
 
 </div>
