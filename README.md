@@ -130,9 +130,9 @@ Kotlin · Jetpack Compose · Cloudflare Workers · AI
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/main/assets/crystal-snake.svg" alt="Animated liquid-glass crystal snake with glowing green food" />
+<img width="100%" src="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/crystal-snake.gif" alt="Animated liquid-glass crystal snake with glowing green food" />
 
-<sub>A custom looping snake animation with crystal-blue styling and a glowing green orb.</sub>
+<sub>Animated crystal-blue snake, glowing green food, and a looping liquid-glass grid.</sub>
 
 </div>
 
