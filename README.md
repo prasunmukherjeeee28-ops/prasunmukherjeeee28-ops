@@ -1,17 +1,18 @@
 <!--
-  PROFILE README · LIGHT/DARK ADAPTIVE EDITION
-  Native GitHub text keeps the name readable in both themes.
+  PROFILE README · CRYSTAL GLASS EDITION
+  Animated name banner with strong contrast in both GitHub themes.
 -->
 
 <div align="center">
 
-# Piyush
-
-### Aspiring Developer · Android · AI · UI/UX
-
-**Learn. Build. Improve.**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:05080D,35:102137,70:183B5C,100:244B70&text=PIYUSH&fontColor=FFFFFF&fontSize=82&fontAlignY=42&desc=LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20EVOLVE&descColor=EAF4FF&descSize=16&descAlignY=65&animation=fadeIn" alt="Piyush — animated name banner, Learn, Build, Evolve" />
 
 <br/>
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=243B53&center=true&vCenter=true&width=650&lines=Aspiring+Developer;Learning+Kotlin+%26+Python;Building+Morrow+AI;Exploring+Android+%26+Artificial+Intelligence#gh-light-mode-only" alt="Animated developer introduction for light mode" />
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=EAF4FF&center=true&vCenter=true&width=650&lines=Aspiring+Developer;Learning+Kotlin+%26+Python;Building+Morrow+AI;Exploring+Android+%26+Artificial+Intelligence#gh-dark-mode-only" alt="Animated developer introduction for dark mode" />
+
+<br/><br/>
 
 <a href="https://github.com/prasunmukherjeeee28-ops">
   <img src="https://img.shields.io/badge/GitHub-Profile-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" />
