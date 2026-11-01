@@ -108,34 +108,6 @@ Kotlin · Jetpack Compose · Cloudflare Workers · AI
 
 </div>
 
-## ◈ THE CONTRIBUTION SNAKE
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/github-contribution-grid-snake.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
-</picture>
-
-<sub>Light and dark versions are generated automatically by GitHub Actions.</sub>
-
-<br/>
-
-<a href="https://github.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/actions/workflows/snake.yml">VIEW SNAKE WORKFLOW ↗</a>
-
-</div>
-
-## ◈ CUSTOM CRYSTAL SNAKE
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/prasunmukherjeeee28-ops/prasunmukherjeeee28-ops/output/crystal-snake.gif" alt="Animated liquid-glass crystal snake with glowing green food" />
-
-<sub>Animated crystal-blue snake, glowing green food, and a looping liquid-glass grid.</sub>
-
-</div>
-
 ## ◈ WHAT I’M WORKING TOWARDS
 
 - Strengthening programming fundamentals
